@@ -24,5 +24,6 @@
 #### 7. BCS students have more depression than others.
 #### 8. Students whose age is 18 are the most depressed, anxious and had more panic attacks than others.
 #### 9. Most student didn't get any treatment.
-#### 10. Mental disorders occure more in students with higher GPA.
+## 10. Mental disorders occure more in students with higher GPA.
+## 11. Students with the highest GPA had anxiety more than any other mental disorder.
 
