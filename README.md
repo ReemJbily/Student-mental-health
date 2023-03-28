@@ -1,5 +1,5 @@
 # Student-mental-health
-#### This repository is part of my training in SHAI for artificial intelligence.
+#### This repository is part of my training with SHAI for artificial intelligence.
 #### It describe students' mental health through a survey.
 ## Dataset explained:
 #### This dataset contains 11 columns and 100 values obtained from a survey which was taken by students of both genders:
