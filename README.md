@@ -1,8 +1,8 @@
 # Student-mental-health
-#### This repository is part of my training in SHAI for artificial intellegence.
-#### It describe students' mental health through a survay.
-## Dataset explaind:
-#### This dataset contains 11 columns and 100 values obtained from a survay which was taken by students of both genders:
+#### This repository is part of my training in SHAI for artificial intelligence.
+#### It describe students' mental health through a survey.
+## Dataset explained:
+#### This dataset contains 11 columns and 100 values obtained from a survey which was taken by students of both genders:
 #### 1. Timestamp.
 #### 2. Choose your gender: gender of the student.
 #### 3. Age: age of the student.
@@ -17,7 +17,7 @@
 ## Insights on data:
 #### 1. Most participants were females.
 #### 2. The most appearing age is 18 with more females participating.
-#### 3. There were numerous courses in the survay, but the most appearing course was BCS followed by BIT with more females than males.
+#### 3. There were numerous courses in the survey, but the most appearing course was BCS followed by BIT with more females than males.
 #### 4. Number of married students with depression is less than those who are single.
 #### 5. Female students have depression, Anxiety and Panic attacks more than male students.
 #### 6. Anxiety is the most appearing mental disorder in both female and male students.
